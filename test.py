@@ -8,3 +8,5 @@ df.columns = ["Time", "X", "Y", "Intensity1", "Intensity2"]
 
 # CSV로 저장
 df.to_csv("converted_file.csv", index=False)
+#안녕하세요
+print("하이")
